@@ -2,3 +2,5 @@
 
 Assignments on Data Vizualization Course
 -> Mostly used Pandas, MatplotLib, Seaborn and Plotly.
+
+## Datasets used: Barcelona Datasets.
